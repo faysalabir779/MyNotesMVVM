@@ -87,7 +87,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture, which ensures a cl
     ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/faysalabir779/MyNotesMVVM/blob/master/LICENSE) file for details.
 
 ## FAQ
 **Q: How do I backup my notes?**
